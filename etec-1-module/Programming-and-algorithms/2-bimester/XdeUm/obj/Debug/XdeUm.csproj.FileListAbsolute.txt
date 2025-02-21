@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\XdeUm\bin\Debug\XdeUm.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\XdeUm\bin\Debug\XdeUm.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\XdeUm\bin\Debug\XdeUm.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\XdeUm\obj\Debug\XdeUm.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\XdeUm\obj\Debug\XdeUm.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\XdeUm\obj\Debug\XdeUm.pdb

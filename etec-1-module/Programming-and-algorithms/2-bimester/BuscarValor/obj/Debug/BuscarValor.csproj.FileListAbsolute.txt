@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\BuscarValor\bin\Debug\BuscarValor.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\BuscarValor\bin\Debug\BuscarValor.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\BuscarValor\bin\Debug\BuscarValor.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\BuscarValor\obj\Debug\BuscarValor.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\BuscarValor\obj\Debug\BuscarValor.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\BuscarValor\obj\Debug\BuscarValor.pdb

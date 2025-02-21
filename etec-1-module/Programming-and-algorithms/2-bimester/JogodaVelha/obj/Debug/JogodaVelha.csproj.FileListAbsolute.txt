@@ -1,0 +1,7 @@
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe.config
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.exe
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\bin\Debug\JogodaVelha.pdb
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.AssemblyReference.cache
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.exe
+D:\etec\PA\2bimestre\jogo da velha\JogodaVelha\JogodaVelha\obj\Debug\JogodaVelha.pdb

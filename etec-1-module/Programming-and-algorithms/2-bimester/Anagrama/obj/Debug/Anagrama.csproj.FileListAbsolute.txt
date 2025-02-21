@@ -1,0 +1,12 @@
+G:\etec\PA\2bimestre\exercicios_vetores\Anagrama\bin\Debug\Anagrama.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\Anagrama\bin\Debug\Anagrama.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Anagrama\bin\Debug\Anagrama.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\Anagrama\obj\Debug\Anagrama.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\Anagrama\obj\Debug\Anagrama.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Anagrama\obj\Debug\Anagrama.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\Anagrama\bin\Debug\Anagrama.exe.config
+D:\etec\PA\2bimestre\exercicios_vetores\Anagrama\bin\Debug\Anagrama.exe
+D:\etec\PA\2bimestre\exercicios_vetores\Anagrama\bin\Debug\Anagrama.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\Anagrama\obj\Debug\Anagrama.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\exercicios_vetores\Anagrama\obj\Debug\Anagrama.exe
+D:\etec\PA\2bimestre\exercicios_vetores\Anagrama\obj\Debug\Anagrama.pdb

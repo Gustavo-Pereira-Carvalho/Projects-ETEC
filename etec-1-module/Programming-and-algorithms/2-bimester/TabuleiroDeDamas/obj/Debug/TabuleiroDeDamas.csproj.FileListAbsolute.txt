@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\TabuleiroDeDamas\bin\Debug\TabuleiroDeDamas.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\TabuleiroDeDamas\bin\Debug\TabuleiroDeDamas.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\TabuleiroDeDamas\bin\Debug\TabuleiroDeDamas.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\TabuleiroDeDamas\obj\Debug\TabuleiroDeDamas.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\TabuleiroDeDamas\obj\Debug\TabuleiroDeDamas.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\TabuleiroDeDamas\obj\Debug\TabuleiroDeDamas.pdb

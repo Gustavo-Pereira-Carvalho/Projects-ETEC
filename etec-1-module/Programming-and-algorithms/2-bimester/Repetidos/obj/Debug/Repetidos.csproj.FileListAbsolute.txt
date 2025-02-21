@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\exercicios_vetores\Repetidos\bin\Debug\Repetidos.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\Repetidos\bin\Debug\Repetidos.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Repetidos\bin\Debug\Repetidos.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\Repetidos\obj\Debug\Repetidos.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\Repetidos\obj\Debug\Repetidos.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Repetidos\obj\Debug\Repetidos.pdb

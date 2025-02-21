@@ -1,0 +1,7 @@
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\bin\Debug\TrocarPosicoes.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\bin\Debug\TrocarPosicoes.exe
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\bin\Debug\TrocarPosicoes.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\obj\Debug\TrocarPosicoes.csproj.AssemblyReference.cache
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\obj\Debug\TrocarPosicoes.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\obj\Debug\TrocarPosicoes.exe
+G:\etec\PA\2bimestre\exercicios_vetores\TrocarPosicoes\obj\Debug\TrocarPosicoes.pdb

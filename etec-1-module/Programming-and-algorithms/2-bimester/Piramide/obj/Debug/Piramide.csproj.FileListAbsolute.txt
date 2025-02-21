@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\Piramide\bin\Debug\Piramide.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\Piramide\bin\Debug\Piramide.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\Piramide\bin\Debug\Piramide.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\Piramide\obj\Debug\Piramide.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\Piramide\obj\Debug\Piramide.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\Piramide\obj\Debug\Piramide.pdb

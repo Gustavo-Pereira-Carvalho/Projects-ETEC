@@ -1,0 +1,7 @@
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\bin\Debug\OrdenarArray.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\bin\Debug\OrdenarArray.exe
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\bin\Debug\OrdenarArray.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\obj\Debug\OrdenarArray.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\obj\Debug\OrdenarArray.exe
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\obj\Debug\OrdenarArray.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\OrdenarArray\obj\Debug\OrdenarArray.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\bin\Debug\InverterPalavra.exe.config
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\bin\Debug\InverterPalavra.exe
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\bin\Debug\InverterPalavra.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\obj\Debug\InverterPalavra.csproj.AssemblyReference.cache
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\obj\Debug\InverterPalavra.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\obj\Debug\InverterPalavra.exe
+D:\etec\PA\2bimestre\exercicios_vetores\InverterPalavra\obj\Debug\InverterPalavra.pdb

@@ -1,0 +1,14 @@
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+G:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+D:\etec\PA\2bimestre\Black Jack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb

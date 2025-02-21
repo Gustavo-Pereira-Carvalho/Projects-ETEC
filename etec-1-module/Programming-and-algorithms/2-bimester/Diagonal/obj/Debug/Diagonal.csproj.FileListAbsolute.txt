@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\Diagonal\bin\Debug\Diagonal.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\Diagonal\bin\Debug\Diagonal.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\Diagonal\bin\Debug\Diagonal.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\Diagonal\obj\Debug\Diagonal.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\Diagonal\obj\Debug\Diagonal.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\Diagonal\obj\Debug\Diagonal.pdb

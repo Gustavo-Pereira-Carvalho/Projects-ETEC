@@ -1,0 +1,7 @@
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\bin\Debug\exercicios_vetores.exe.config
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\bin\Debug\exercicios_vetores.exe
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\bin\Debug\exercicios_vetores.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\obj\Debug\media.csproj.AssemblyReference.cache
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\obj\Debug\media.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\obj\Debug\exercicios_vetores.exe
+D:\etec\PA\2bimestre\exercicios_vetores\exercicios_vetores\obj\Debug\exercicios_vetores.pdb

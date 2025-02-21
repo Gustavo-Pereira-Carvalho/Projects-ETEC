@@ -1,0 +1,6 @@
+D:\etec\PA\2bimestre\exercicios_vetores\impares\bin\Debug\impares.exe.config
+D:\etec\PA\2bimestre\exercicios_vetores\impares\bin\Debug\impares.exe
+D:\etec\PA\2bimestre\exercicios_vetores\impares\bin\Debug\impares.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\impares\obj\Debug\impares.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\exercicios_vetores\impares\obj\Debug\impares.exe
+D:\etec\PA\2bimestre\exercicios_vetores\impares\obj\Debug\impares.pdb

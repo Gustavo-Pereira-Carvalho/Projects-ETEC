@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\TrianguloRetangulo\bin\Debug\TrianguloRetangulo.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\TrianguloRetangulo\bin\Debug\TrianguloRetangulo.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\TrianguloRetangulo\bin\Debug\TrianguloRetangulo.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\TrianguloRetangulo\obj\Debug\TrianguloRetangulo.pdb

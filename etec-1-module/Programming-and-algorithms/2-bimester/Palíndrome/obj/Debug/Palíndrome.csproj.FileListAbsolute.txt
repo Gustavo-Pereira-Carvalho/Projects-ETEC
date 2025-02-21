@@ -1,0 +1,6 @@
+D:\etec\PA\2bimestre\exercicios_vetores\Palíndrome\obj\Debug\Palíndrome.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\exercicios_vetores\Palíndrome\bin\Debug\Palíndrome.exe.config
+D:\etec\PA\2bimestre\exercicios_vetores\Palíndrome\bin\Debug\Palíndrome.exe
+D:\etec\PA\2bimestre\exercicios_vetores\Palíndrome\bin\Debug\Palíndrome.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\Palíndrome\obj\Debug\Palíndrome.exe
+D:\etec\PA\2bimestre\exercicios_vetores\Palíndrome\obj\Debug\Palíndrome.pdb

@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\exercicios_vetores\Pares\bin\Debug\Pares.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\Pares\bin\Debug\Pares.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Pares\bin\Debug\Pares.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\Pares\obj\Debug\Pares.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\Pares\obj\Debug\Pares.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Pares\obj\Debug\Pares.pdb

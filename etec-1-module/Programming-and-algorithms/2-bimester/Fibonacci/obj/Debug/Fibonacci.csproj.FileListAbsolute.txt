@@ -1,0 +1,14 @@
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\bin\Debug\Fibonacci.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\bin\Debug\Fibonacci.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\bin\Debug\Fibonacci.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.exe
+G:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\bin\Debug\Fibonacci.exe.config
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\bin\Debug\Fibonacci.exe
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\bin\Debug\Fibonacci.pdb
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.csproj.AssemblyReference.cache
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.exe
+D:\etec\PA\2bimestre\exercicios_vetores\Fibonacci\obj\Debug\Fibonacci.pdb

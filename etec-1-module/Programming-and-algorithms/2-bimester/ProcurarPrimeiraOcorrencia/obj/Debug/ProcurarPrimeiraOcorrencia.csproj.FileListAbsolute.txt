@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarPrimeiraOcorrencia\bin\Debug\ProcurarPrimeiraOcorrencia.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarPrimeiraOcorrencia\bin\Debug\ProcurarPrimeiraOcorrencia.exe
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarPrimeiraOcorrencia\bin\Debug\ProcurarPrimeiraOcorrencia.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarPrimeiraOcorrencia\obj\Debug\ProcurarPrimeiraOcorrencia.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarPrimeiraOcorrencia\obj\Debug\ProcurarPrimeiraOcorrencia.exe
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarPrimeiraOcorrencia\obj\Debug\ProcurarPrimeiraOcorrencia.pdb

@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarTodasOcorrencias\bin\Debug\ProcurarTodasOcorrencias.exe.config
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarTodasOcorrencias\bin\Debug\ProcurarTodasOcorrencias.exe
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarTodasOcorrencias\bin\Debug\ProcurarTodasOcorrencias.pdb
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarTodasOcorrencias\obj\Debug\ProcurarTodasOcorrencias.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarTodasOcorrencias\obj\Debug\ProcurarTodasOcorrencias.exe
+G:\etec\PA\2bimestre\exercicios_vetores\ProcurarTodasOcorrencias\obj\Debug\ProcurarTodasOcorrencias.pdb

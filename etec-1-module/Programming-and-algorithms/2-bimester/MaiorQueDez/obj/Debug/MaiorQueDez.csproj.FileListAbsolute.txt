@@ -1,0 +1,6 @@
+G:\etec\PA\2bimestre\Matriz\Matriz\MaiorQueDez\bin\Debug\MaiorQueDez.exe.config
+G:\etec\PA\2bimestre\Matriz\Matriz\MaiorQueDez\bin\Debug\MaiorQueDez.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\MaiorQueDez\bin\Debug\MaiorQueDez.pdb
+G:\etec\PA\2bimestre\Matriz\Matriz\MaiorQueDez\obj\Debug\MaiorQueDez.csproj.CoreCompileInputs.cache
+G:\etec\PA\2bimestre\Matriz\Matriz\MaiorQueDez\obj\Debug\MaiorQueDez.exe
+G:\etec\PA\2bimestre\Matriz\Matriz\MaiorQueDez\obj\Debug\MaiorQueDez.pdb
