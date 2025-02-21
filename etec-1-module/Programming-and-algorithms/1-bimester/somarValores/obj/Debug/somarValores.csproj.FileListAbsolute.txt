@@ -1,0 +1,14 @@
+G:\etec\PA\TAREFAS\loop\somarValores\bin\Debug\somarValores.exe.config
+G:\etec\PA\TAREFAS\loop\somarValores\bin\Debug\somarValores.exe
+G:\etec\PA\TAREFAS\loop\somarValores\bin\Debug\somarValores.pdb
+G:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.csproj.AssemblyReference.cache
+G:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.csproj.CoreCompileInputs.cache
+G:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.exe
+G:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.pdb
+D:\etec\PA\TAREFAS\loop\somarValores\bin\Debug\somarValores.exe.config
+D:\etec\PA\TAREFAS\loop\somarValores\bin\Debug\somarValores.exe
+D:\etec\PA\TAREFAS\loop\somarValores\bin\Debug\somarValores.pdb
+D:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.exe
+D:\etec\PA\TAREFAS\loop\somarValores\obj\Debug\somarValores.pdb

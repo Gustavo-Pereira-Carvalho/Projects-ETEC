@@ -1,0 +1,7 @@
+D:\etec\PA\TAREFAS\loop\loop\bin\Debug\loop.exe.config
+D:\etec\PA\TAREFAS\loop\loop\bin\Debug\loop.exe
+D:\etec\PA\TAREFAS\loop\loop\bin\Debug\loop.pdb
+D:\etec\PA\TAREFAS\loop\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\loop\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\loop\obj\Debug\loop.exe
+D:\etec\PA\TAREFAS\loop\loop\obj\Debug\loop.pdb

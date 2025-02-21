@@ -1,0 +1,7 @@
+D:\etec\PA\Variaveis\variaveis\variaveis\obj\Debug\variaveis.csproj.AssemblyReference.cache
+D:\etec\PA\Variaveis\variaveis\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+D:\etec\PA\Variaveis\variaveis\variaveis\bin\Debug\variaveis.exe.config
+D:\etec\PA\Variaveis\variaveis\variaveis\bin\Debug\variaveis.exe
+D:\etec\PA\Variaveis\variaveis\variaveis\bin\Debug\variaveis.pdb
+D:\etec\PA\Variaveis\variaveis\variaveis\obj\Debug\variaveis.exe
+D:\etec\PA\Variaveis\variaveis\variaveis\obj\Debug\variaveis.pdb

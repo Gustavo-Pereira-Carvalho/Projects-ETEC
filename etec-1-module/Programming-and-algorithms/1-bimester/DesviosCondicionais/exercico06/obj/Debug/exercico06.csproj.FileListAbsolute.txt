@@ -1,0 +1,14 @@
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\bin\Debug\exercico06.exe.config
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\bin\Debug\exercico06.exe
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\bin\Debug\exercico06.pdb
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.csproj.AssemblyReference.cache
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.csproj.CoreCompileInputs.cache
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.exe
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.pdb
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\bin\Debug\exercico06.exe.config
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\bin\Debug\exercico06.exe
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\bin\Debug\exercico06.pdb
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.exe
+D:\etec\PA\TAREFAS\DesviosCondicionais\exercico06\obj\Debug\exercico06.pdb

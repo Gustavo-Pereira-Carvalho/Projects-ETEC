@@ -1,0 +1,7 @@
+D:\etec\PA\ReceberDados\ReceberDados\bin\Debug\ReceberDados.exe.config
+D:\etec\PA\ReceberDados\ReceberDados\bin\Debug\ReceberDados.exe
+D:\etec\PA\ReceberDados\ReceberDados\bin\Debug\ReceberDados.pdb
+D:\etec\PA\ReceberDados\ReceberDados\obj\Debug\ReceberDados.csproj.AssemblyReference.cache
+D:\etec\PA\ReceberDados\ReceberDados\obj\Debug\ReceberDados.csproj.CoreCompileInputs.cache
+D:\etec\PA\ReceberDados\ReceberDados\obj\Debug\ReceberDados.exe
+D:\etec\PA\ReceberDados\ReceberDados\obj\Debug\ReceberDados.pdb

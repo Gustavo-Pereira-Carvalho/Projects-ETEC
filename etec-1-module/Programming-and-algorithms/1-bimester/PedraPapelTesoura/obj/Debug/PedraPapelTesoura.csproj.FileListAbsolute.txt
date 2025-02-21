@@ -1,0 +1,7 @@
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe.config
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.exe
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\bin\Debug\PedraPapelTesoura.pdb
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.AssemblyReference.cache
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.exe
+D:\etec\PA\Desafio\PedraPapelTesoura\PedraPapelTesoura\obj\Debug\PedraPapelTesoura.pdb

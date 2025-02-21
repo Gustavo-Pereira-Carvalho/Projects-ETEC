@@ -1,0 +1,6 @@
+D:\etec\PA\TAREFAS\loop\ChuteCerto\bin\Debug\ChuteCerto.exe.config
+D:\etec\PA\TAREFAS\loop\ChuteCerto\bin\Debug\ChuteCerto.exe
+D:\etec\PA\TAREFAS\loop\ChuteCerto\bin\Debug\ChuteCerto.pdb
+D:\etec\PA\TAREFAS\loop\ChuteCerto\obj\Debug\ChuteCerto.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\ChuteCerto\obj\Debug\ChuteCerto.exe
+D:\etec\PA\TAREFAS\loop\ChuteCerto\obj\Debug\ChuteCerto.pdb

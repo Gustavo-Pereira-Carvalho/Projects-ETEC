@@ -1,0 +1,7 @@
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\bin\Debug\exercicio08.exe.config
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\bin\Debug\exercicio08.exe
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\bin\Debug\exercicio08.pdb
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\obj\Debug\exercicio08.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\obj\Debug\exercicio08.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\obj\Debug\exercicio08.exe
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio08\obj\Debug\exercicio08.pdb

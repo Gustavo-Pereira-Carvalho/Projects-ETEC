@@ -1,0 +1,6 @@
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercicio05\bin\Debug\exercicio05.exe.config
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercicio05\bin\Debug\exercicio05.exe
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercicio05\bin\Debug\exercicio05.pdb
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercicio05\obj\Debug\exercicio05.csproj.CoreCompileInputs.cache
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercicio05\obj\Debug\exercicio05.exe
+F:\etec\PA\TAREFAS\DesviosCondicionais\exercicio05\obj\Debug\exercicio05.pdb

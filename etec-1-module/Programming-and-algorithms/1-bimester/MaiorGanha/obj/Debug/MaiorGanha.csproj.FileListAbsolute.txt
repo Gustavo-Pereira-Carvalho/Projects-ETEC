@@ -1,0 +1,7 @@
+D:\etec\PA\TAREFAS\loop\MaiorGanha\bin\Debug\MaiorGanha.exe.config
+D:\etec\PA\TAREFAS\loop\MaiorGanha\bin\Debug\MaiorGanha.exe
+D:\etec\PA\TAREFAS\loop\MaiorGanha\bin\Debug\MaiorGanha.pdb
+D:\etec\PA\TAREFAS\loop\MaiorGanha\obj\Debug\MaiorGanha.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\loop\MaiorGanha\obj\Debug\MaiorGanha.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\MaiorGanha\obj\Debug\MaiorGanha.exe
+D:\etec\PA\TAREFAS\loop\MaiorGanha\obj\Debug\MaiorGanha.pdb

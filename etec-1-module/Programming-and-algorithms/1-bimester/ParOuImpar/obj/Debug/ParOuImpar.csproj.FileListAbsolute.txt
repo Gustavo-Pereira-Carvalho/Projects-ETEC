@@ -1,0 +1,7 @@
+D:\etec\PA\TAREFAS\loop\ParOuImpar\bin\Debug\ParOuImpar.exe.config
+D:\etec\PA\TAREFAS\loop\ParOuImpar\bin\Debug\ParOuImpar.exe
+D:\etec\PA\TAREFAS\loop\ParOuImpar\bin\Debug\ParOuImpar.pdb
+D:\etec\PA\TAREFAS\loop\ParOuImpar\obj\Debug\ParOuImpar.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\loop\ParOuImpar\obj\Debug\ParOuImpar.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\ParOuImpar\obj\Debug\ParOuImpar.exe
+D:\etec\PA\TAREFAS\loop\ParOuImpar\obj\Debug\ParOuImpar.pdb

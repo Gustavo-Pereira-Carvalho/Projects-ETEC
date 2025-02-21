@@ -1,0 +1,13 @@
+G:\etec\PA\TAREFAS\loop\fatorial\bin\Debug\fatorial.exe.config
+G:\etec\PA\TAREFAS\loop\fatorial\bin\Debug\fatorial.exe
+G:\etec\PA\TAREFAS\loop\fatorial\bin\Debug\fatorial.pdb
+G:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.csproj.CoreCompileInputs.cache
+G:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.exe
+G:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.pdb
+D:\etec\PA\TAREFAS\loop\fatorial\bin\Debug\fatorial.exe.config
+D:\etec\PA\TAREFAS\loop\fatorial\bin\Debug\fatorial.exe
+D:\etec\PA\TAREFAS\loop\fatorial\bin\Debug\fatorial.pdb
+D:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.exe
+D:\etec\PA\TAREFAS\loop\fatorial\obj\Debug\fatorial.pdb

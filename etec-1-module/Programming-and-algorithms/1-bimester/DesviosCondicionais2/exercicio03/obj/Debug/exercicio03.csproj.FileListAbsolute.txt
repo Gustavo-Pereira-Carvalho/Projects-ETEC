@@ -1,0 +1,14 @@
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\bin\Debug\exercicio03.exe.config
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\bin\Debug\exercicio03.exe
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\bin\Debug\exercicio03.pdb
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.csproj.CoreCompileInputs.cache
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.exe
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.pdb
+G:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\bin\Debug\exercicio03.exe.config
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\bin\Debug\exercicio03.exe
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\bin\Debug\exercicio03.pdb
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.exe
+D:\etec\PA\TAREFAS\DesviosCondicionais2\exercicio03\obj\Debug\exercicio03.pdb

@@ -1,0 +1,14 @@
+G:\etec\PA\TAREFAS\loop\testeDeSoma\bin\Debug\testeDeSoma.exe.config
+G:\etec\PA\TAREFAS\loop\testeDeSoma\bin\Debug\testeDeSoma.exe
+G:\etec\PA\TAREFAS\loop\testeDeSoma\bin\Debug\testeDeSoma.pdb
+G:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.csproj.AssemblyReference.cache
+G:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.csproj.CoreCompileInputs.cache
+G:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.exe
+G:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.pdb
+D:\etec\PA\TAREFAS\loop\testeDeSoma\bin\Debug\testeDeSoma.exe.config
+D:\etec\PA\TAREFAS\loop\testeDeSoma\bin\Debug\testeDeSoma.exe
+D:\etec\PA\TAREFAS\loop\testeDeSoma\bin\Debug\testeDeSoma.pdb
+D:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.exe
+D:\etec\PA\TAREFAS\loop\testeDeSoma\obj\Debug\testeDeSoma.pdb

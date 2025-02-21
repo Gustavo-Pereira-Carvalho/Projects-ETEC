@@ -1,0 +1,7 @@
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\bin\Debug\exercicio01.exe.config
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\bin\Debug\exercicio01.exe
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\bin\Debug\exercicio01.pdb
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\obj\Debug\exercicio01.csproj.AssemblyReference.cache
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\obj\Debug\exercicio01.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\obj\Debug\exercicio01.exe
+D:\etec\PA\TAREFAS\exercicios_loop\exercicio01\obj\Debug\exercicio01.pdb

@@ -1,0 +1,6 @@
+D:\etec\PA\TAREFAS\loop\ProgressãoAritimetica\obj\Debug\ProgressãoAritimetica.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\ProgressãoAritimetica\bin\Debug\ProgressãoAritimetica.exe.config
+D:\etec\PA\TAREFAS\loop\ProgressãoAritimetica\bin\Debug\ProgressãoAritimetica.exe
+D:\etec\PA\TAREFAS\loop\ProgressãoAritimetica\bin\Debug\ProgressãoAritimetica.pdb
+D:\etec\PA\TAREFAS\loop\ProgressãoAritimetica\obj\Debug\ProgressãoAritimetica.exe
+D:\etec\PA\TAREFAS\loop\ProgressãoAritimetica\obj\Debug\ProgressãoAritimetica.pdb

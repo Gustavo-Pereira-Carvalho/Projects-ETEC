@@ -1,0 +1,6 @@
+D:\etec\PA\TAREFAS\loop\InverterNumero\bin\Debug\InverterNumero.exe.config
+D:\etec\PA\TAREFAS\loop\InverterNumero\bin\Debug\InverterNumero.exe
+D:\etec\PA\TAREFAS\loop\InverterNumero\bin\Debug\InverterNumero.pdb
+D:\etec\PA\TAREFAS\loop\InverterNumero\obj\Debug\InverterNumero.csproj.CoreCompileInputs.cache
+D:\etec\PA\TAREFAS\loop\InverterNumero\obj\Debug\InverterNumero.exe
+D:\etec\PA\TAREFAS\loop\InverterNumero\obj\Debug\InverterNumero.pdb
