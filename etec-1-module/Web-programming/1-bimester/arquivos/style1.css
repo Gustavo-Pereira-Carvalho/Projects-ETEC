@@ -1,0 +1,42 @@
+body{
+    background: #7e88bd;
+}
+.titulolucas {
+    font-size: 50px;
+    text-align:center;
+   font-family:Fantasy ;  
+}
+.subtitulolucas {
+    font-size: 35spx;
+    text-align: center;
+}
+.divlucas {
+    border: solid 2px black;
+    border-radius: 10px;
+    margin-left: 16%;
+    margin-right: 16%;
+}
+.endereçamento{
+    text-align: right;
+    font-size:15px;
+    font-family: Fantasy;
+    color: black;
+}
+.imglucas{
+    width: 155px;
+    height:155px;
+ border-radius: 15px; 
+ margin-left: 44.5%;  
+}
+ .paragrafolucas{
+    font-size: 22px;
+   font-family:arial ;  
+   margin: 5px;
+   text-align: justify;
+   margin-left: 20%;
+   margin-right: 20%;
+}
+.linkl{
+    color: #000;
+   margin-left:49% ;
+}

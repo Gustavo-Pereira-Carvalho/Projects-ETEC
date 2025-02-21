@@ -1,0 +1,31 @@
+
+
+h1 {
+    text-align: center;
+    color: rgb(163, 33, 163);
+    border: solid rgb(0, 4, 255);
+    border-radius: 8px;
+}
+
+h2 {
+    color: rgb(212, 36, 212);
+}
+
+p {
+    color: white;
+}
+.imagem:hover {
+    border: solid 3px;
+    color: rgb(37, 69, 186);
+}
+
+img {
+    border: hidden green;
+    height: 100px;
+    border-radius: 15px;
+}
+
+a{
+    font-size: 25px;
+    color: rgb(23, 26, 196);
+}

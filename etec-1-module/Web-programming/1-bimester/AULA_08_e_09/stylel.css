@@ -1,0 +1,66 @@
+body{
+    background-image: url('IMG/cool-background1.webp')
+    /* background-color: rgb(211, 252, 252); */
+}
+
+.importante:hover{
+    background: blue;
+    color: black;
+}
+
+.gustavo{
+    background: green;
+    color: white;
+}
+
+
+h2{
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: rgb(22, 101, 170);
+}
+h1{
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: rgb(22, 101, 170);
+}
+img{
+    height: 250px;
+    border: hidden green;
+    border-radius: 5px;
+}
+.border01:hover{
+    border: solid 7px;
+    color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* estilo CSS aplicado a todas as listas não ordenadas:
+ul {
+    background: green; 
+alterar a aparência dos marcadores para a lista não ordenada.
+    list-style-type: circle;
+}
+Para selecionar apenas os itens da lista não ordenada, utilize um seletor conjunto, conforme exemplo:
+ul li{
+    background: lightgreen;
+}
+Para selecionar apenas os itens das listas ordenadas:
+ol li{
+    background: lightgreen;
+}
+
+ol{
+    background: green;
+} */

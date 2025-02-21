@@ -1,0 +1,123 @@
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #f1f1f1;
+  }
+
+  /* o padding define uma a distância entre o conteúdo de um elemento e suas bordas*/
+  h1 {
+    font-size: 80px;
+    padding: 0px 16px;
+  }
+  /*o margin é utilizado para inserir um espaçamento externo ao elemento, ao redor da borda
+   o text-align define o alinhamento do texto */
+  .container {
+    margin: 50px auto;
+    text-align: center;
+  }
+  .g{
+    color: rgb(59, 106, 235);
+  }
+  .o{
+    color: red;
+  }
+  .o1{
+    color: rgb(238, 214, 2);
+  }
+  .l{
+    color: rgb(2, 122, 2);
+  }
+  .e{
+    color:red;
+  }
+  /* o list-style-type é a maneira abreviada de se escrever uma só declaração para duas das propriedades para listas 
+  o overflow define o comportamento de um elemento quando suas dimensões são excedidas pelo conteúdo*/
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f1f1f1;
+  }
+
+  /* o float determina que um elemento deve ser retirado do seu fluxo normal e colocado ao longo do lado direito ou esquerdo do seu containêr, onde textos e elementos em linha irão se posicionar ao seu redor */
+  li {
+    float: right;
+    padding: 8px 5px;
+  }
+
+  /* o display é utilizada para indicar a forma como os elementos HTML serão dispostos na página ou em espaços delimitados 
+   o text-decoration é usado para definir a formatação de underline , overline , line-through ou blink*/
+  li a {
+    display: block;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* o box-sizing é usado para alterar a propriedade padrão da box model, usada para calcular larguras (widths) e alturas (heights) dos elementos. 
+  o outline definir a largura do contorno, o estilo do contorno e a cor do contorno em uma declaração*/
+  input[type="text"] {
+    width: 40%;
+    height: 50px;
+    padding: 12px;
+    margin: 16px 8px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+  }
+
+  /* o cursor  especifica o cursor do mouse mostrado quando o ponteiro do mouse está sobre um elemento. */
+  button {
+    background-color: #88b6f2;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type="submit"] {
+    background-color: rgba(43, 26, 196, 0.418);
+    color: rgb(247, 247, 247);
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type="submit"]:hover {
+    background-color: #4dbbbeb6;
+  }
+  img {
+    width: 35px;
+    padding: 5px 20px;
+  }
+  .aMenu {
+    display: block;
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding: 0px 0px;
+    text-decoration: none;
+  }
+
+  .rodape {
+    width: 100%;
+    overflow: hidden;
+    margin: 15% 0% 0% 0%;
+  }
+  .esquerda {
+    float: left;
+    width: 45%;
+  }
+  .direita {
+    float: right;
+    width: 50%;
+  }
+
+  /* o clear define quais bordas (esquerda, direita, ambas ou nenhuma) de um elemento não aceitarão outros elementos posicionados por float */
+  .flutuacao::after {
+    display: table;
+    clear: both;
+  }

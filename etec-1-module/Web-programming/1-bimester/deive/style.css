@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(147, 202, 202);
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    border: solid 3px black;
+    border-radius: 5px;
+}
+h2{
+    font-size: 25px;
+    text-align: left;
+    border: solid 2px rgb(114, 110, 110);
+    border-radius: 5px;
+}
+.LinkMaior{
+    font-size: 25px;
+}
+

@@ -1,0 +1,35 @@
+div{
+    width: 600px;
+    border: solid 5px rgb(113, 2, 187);
+    padding: 100px;
+    margin: 10px;
+}
+
+.mae1{
+    display: inline-block;
+    border: none;
+    padding: auto;
+}
+
+.mae2{
+    display: inline-block;
+    border: none;
+    padding: auto;
+}
+
+.d1{
+    background-color: yellow;
+}
+
+.d2{
+    background-color: black;
+    color: aqua;
+}
+
+.d3{
+    background-color: orange;
+}
+
+.d4{
+    background-color: blue;
+}

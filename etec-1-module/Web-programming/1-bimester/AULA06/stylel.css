@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(211, 252, 252);
+}
+
+/* estilo CSS aplicado a todas as listas não ordenadas: */
+ul {
+    background: green; 
+/* alterar a aparência dos marcadores para a lista não ordenada. */
+    list-style-type: circle;
+}
+/* Para selecionar apenas os itens da lista não ordenada, utilize um seletor conjunto, conforme exemplo: */
+ul li{
+    background: lightgreen;
+}
+/* Para selecionar apenas os itens das listas ordenadas: */
+ol li{
+    background: lightgreen;
+}
+
+ol{
+    background: green;
+}
+
+
+h2{
+    border: solid 2px;
+    border-radius: 5px;
+    border-color: rgb(22, 101, 170);
+}

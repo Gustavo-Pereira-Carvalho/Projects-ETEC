@@ -1,0 +1,13 @@
+/* display block ocupa o espaço da horizontal toda (padrao da DIV)
+   display inline ocupa o espaaço apenas o conteudo padrao do (span)*/
+
+div{
+    background-color: aqua;
+    width: 250px;
+}
+span{
+    background-color: blueviolet;
+    /* muda o display de inline para block ou de block para inline */
+    display: inline-block;
+    width: 500px;
+}

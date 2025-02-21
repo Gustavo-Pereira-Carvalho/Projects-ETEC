@@ -1,0 +1,21 @@
+body{
+   background-color: black;
+}
+h1{
+    color: greenyellow;
+    text-align: center;
+    border: solid blue;
+    border-radius: 8px;
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+h2{
+    color: red;
+}
+h3{
+    color: rgb(248, 149, 0);  
+}
