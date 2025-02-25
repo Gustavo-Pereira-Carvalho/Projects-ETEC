@@ -1,0 +1,20 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Calculadora
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-item>
+    <ion-input label="Valor da Temperatura" labelPlacement="floating" placeholder="Valor" type="number"  [(ngModel)]="vl"></ion-input>
+  </ion-item>
+
+  <ion-button (click)="celcius()" size="small">Celsius para Fahrenheit</ion-button>
+
+  <ion-button (click)="fahrenheit()" size="small">Fahrenheit para Celsius</ion-button>
+
+  <!-- label- permite o usuario ver dados mas sem interação nenhuma -->
+  <ion-label>{{res}}</ion-label>
+</ion-content>

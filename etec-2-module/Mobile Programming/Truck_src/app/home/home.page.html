@@ -1,0 +1,23 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Média
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+
+  <!-- ngMode ---- para vincular com a parte do TypeScript -->
+  <ion-item>
+    <ion-input label="Distancia em KM" labelPlacement="floating" placeholder="Distancia..." type="number"
+      [(ngModel)]="n1"></ion-input>
+  </ion-item>
+
+  <ion-button (click)="cl()" size="small">Verificar</ion-button>
+
+  <!-- label- permite o usuario ver dados mas sem interação nenhuma -->
+  <ion-label>{{res}}</ion-label>
+</ion-content>
+
+
